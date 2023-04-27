@@ -61,8 +61,8 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '60182720133'
 global.nomorown = '60177301683'
-global.namebot = 'HOSTING BOT BY PUT'
-global.nameown = '𝕻𝖚𝖙'
+global.namebot = 'HOSTING BOT BY MABLE'
+global.nameown = 'MABLE'
 
 
 /*============== STAFF ==============*/
