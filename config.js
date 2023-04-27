@@ -44,9 +44,9 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/whooputt'
-global.sgh = 'https://github.com/Putbotz'
-global.sgc = 'https://chat.whatsapp.com/L5A62ACjj9IDiIZ962HsYp'
+global.sig = 'https://www.instagram.com/sw33ttieluna'
+global.sgh = 'https://github.com/mablebotz'
+global.sgc = 'https://wa.me/qr/MPIJLWNBN7KJH1'
 global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
 
@@ -59,16 +59,16 @@ global.ppulsa2 = '081336990781'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '60147366955'
-global.nomorown = '601169466091'
+global.nomorbot = '60182720133'
+global.nomorown = '60177301683'
 global.namebot = 'HOSTING BOT BY PUT'
 global.nameown = '𝕻𝖚𝖙'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['601169466091'],
-  ['601169466091', '𝕻𝖚𝖙 𝕯𝖊𝖛', true]
+  ['60182720133'],
+  ['60182720133', 'MABLEBOT', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,12 +113,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝕻𝖚𝖙 𝕯𝖊𝖛 あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝕻𝖚𝖙 𝕯𝖊𝖛˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝕻𝖚𝖙 𝕯𝖊𝖛'
+global.wm = '                「 MABLEBOT あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘MABLEBOT˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ MABLEBOT'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '🌱 ┊ 𝕻𝖚𝖙 𝕯𝖊𝖛 Whatsapp ʙᴏᴛ'
+global.titlebot = '🌱 ┊ MABLEBOT Whatsapp ʙᴏᴛ'
 global.author = global.wm
 
 
