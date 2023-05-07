@@ -59,8 +59,8 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '60182720133'
-global.nomorown = '60177301683'
+global.nomorbot = '60177301683'
+global.nomorown = '60182720133'
 global.namebot = 'Mabl£Botz 💎'
 global.nameown = 'MABLE ROR🦖'
 
@@ -118,7 +118,7 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘MABLEBOT˘ฅ ꒱ ‧₊˚꒷︶�
 global.wm3 = '⫹⫺ MABLEBOT'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '🌱 ┊ MABLEBOT Whatsapp ʙᴏᴛ'
+global.titlebot = '🌱 ┊ mable Whatsapp ʙᴏᴛ'
 global.author = global.wm
 
 
@@ -172,7 +172,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎\nM\nA\nB\nL\nE\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎\nM\nA\nB\nL\nE\n-\nB\nO\nT\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 
 global.multiplier = 999 // The higher, The harder levelup
 
