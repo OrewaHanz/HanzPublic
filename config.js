@@ -59,16 +59,16 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '60177301683'
-global.nomorown = '60182720133'
-global.namebot = 'Mabl£Botz 💎'
-global.nameown = 'MABLE ROR🦖'
+global.nomorbot = '601115351387'
+global.nomorown = '6011115351387'
+global.namebot = '𝗡𝘀𝗴𝗕𝗼𝘁𝘇 💎'
+global.nameown = '𝗡𝘀𝗴𝗕𝗼𝘁𝘇'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['60182720133'],
-  ['60182720133', 'MABLEBOT', true]
+  ['601115351387'],
+  ['601121689661', 'NSGBOT', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,12 +113,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 MABLEBOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘MABLEBOT˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ MABLEBOT'
+global.wm = '                「 NSGBOT あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘NSGBOT˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ NSGBOT'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '🌱 ┊ mable Whatsapp ʙᴏᴛ'
+global.titlebot = '🌱 ┊ Hanzo Whatsapp ʙᴏᴛ'
 global.author = global.wm
 
 
